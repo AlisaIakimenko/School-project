@@ -1,0 +1,58 @@
+body{
+	background: #8c80ab;
+}
+.content{
+	background: #60508c;
+}
+.film
+{
+	float: left;
+	margin: 10px;
+	position: relative;
+	top: 50px;
+}
+.music
+{
+	display: inline-block;
+	display: absolute;
+}
+.content2{
+	background: #508f61;
+}
+.film2{
+	float: left;
+	margin: 10px;
+	position: relative;
+	top: 115px;
+}
+.music2{
+	display: inline-block;
+	display: absolute;
+}
+h1{
+	text-align: center;
+}
+#goBack
+{
+	width: 150px;
+	height: 30px;
+	background-color: white;
+	text-align: center;
+	position:relative;
+	top: 10px;
+	margin: auto;
+	border-radius: 50px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	font-size: 18pt;
+	padding: 15px;
+
+}
+#goBack a
+{
+	text-decoration: none;
+	color:black;
+}
+#goBack:hover
+{
+	background-color: #bababa;
+}
