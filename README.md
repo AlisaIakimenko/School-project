@@ -1,2 +1,1 @@
-# School-project
-Bungo Stray Dogs website 
+https://alisaiakimenko.github.io/School-project/
